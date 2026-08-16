@@ -1,2 +1,2 @@
-# Git Practice
-Nội dung thử nghiệm
+Họ và tên: Nguyễn Minh Châu
+MSV: 24D192049
